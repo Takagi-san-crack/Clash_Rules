@@ -52,3 +52,9 @@ DOMAIN-SUFFIX,halifax.co.uk,DIRECT
 DOMAIN-SUFFIX,newdaycards.com,DIRECT
 DOMAIN-SUFFIX,totallymoney.com,DIRECT
 DOMAIN-SUFFIX,chase.co.uk,DIRECT
+
+#!Trade
+DOMAIN-SUFFIX,longbridge.com,DIRECT
+DOMAIN-SUFFIX,longbridgehk.com,DIRECT
+DOMAIN-SUFFIX,longportapp.com,DIRECT
+DOMAIN-SUFFIX,wbrks.com,DIRECT
