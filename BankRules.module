@@ -41,17 +41,17 @@ DOMAIN-SUFFIX,antbank.hk,DIRECT
 DOMAIN-SUFFIX,airstarbank.com,DIRECT
 
 #!UK
-DOMAIN-SUFFIX,barclays.co.uk,DIRECT
-DOMAIN-SUFFIX,aquacard.co.uk,DIRECT
-DOMAIN-SUFFIX,hsbc.co.uk,DIRECT
-DOMAIN-SUFFIX,lloydsbank.com,DIRECT
-DOMAIN-SUFFIX,santander.co.uk,DIRECT
-DOMAIN-SUFFIX,bankofscotland.co.uk,DIRECT
-DOMAIN-SUFFIX,natwest.com,DIRECT
-DOMAIN-SUFFIX,halifax.co.uk,DIRECT
-DOMAIN-SUFFIX,newdaycards.com,DIRECT
-DOMAIN-SUFFIX,totallymoney.com,DIRECT
-DOMAIN-SUFFIX,chase.co.uk,DIRECT
+DOMAIN-SUFFIX,barclays.co.uk,PROXY
+DOMAIN-SUFFIX,aquacard.co.uk,PROXY
+DOMAIN-SUFFIX,hsbc.co.uk,PROXY
+DOMAIN-SUFFIX,lloydsbank.com,PROXY
+DOMAIN-SUFFIX,santander.co.uk,PROXY
+DOMAIN-SUFFIX,bankofscotland.co.uk,PROXY
+DOMAIN-SUFFIX,natwest.com,PROXY
+DOMAIN-SUFFIX,halifax.co.uk,PROXY
+DOMAIN-SUFFIX,newdaycards.com,PROXY
+DOMAIN-SUFFIX,totallymoney.com,PROXY
+DOMAIN-SUFFIX,chase.co.uk,PROXY
 
 #!Trade
 DOMAIN-SUFFIX,longbridge.com,DIRECT
