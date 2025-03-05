@@ -1,5 +1,4 @@
 ﻿#!name=BankRules
-
 #!desc=将银行域名设置成直连访问
 
 [Rule]
