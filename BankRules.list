@@ -38,19 +38,6 @@ host-suffix,antbank.hk,direct
 #AIRSTAR
 host-suffix,airstarbank.com,direct
 
-#UK
-host-suffix,barclays.co.uk,direct
-host-suffix,aquacard.co.uk,direct
-host-suffix,hsbc.co.uk,direct
-host-suffix,lloydsbank.com,direct
-host-suffix,santander.co.uk,direct
-host-suffix,bankofscotland.co.uk,direct
-host-suffix,natwest.com,direct
-host-suffix,halifax.co.uk,direct
-host-suffix,newdaycards.com,direct
-host-suffix,totallymoney.com,direct
-host-suffix,chase.co.uk,direct
-
 #Trade
 host-suffix,longbridge.com,direct
 host-suffix,longbridgehk.com,direct
