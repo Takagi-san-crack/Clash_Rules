@@ -50,3 +50,9 @@ host-suffix,halifax.co.uk,direct
 host-suffix,newdaycards.com,direct
 host-suffix,totallymoney.com,direct
 host-suffix,chase.co.uk,direct
+
+#Trade
+host-suffix,longbridge.com,direct
+host-suffix,longbridgehk.com,direct
+host-suffix,longportapp.com,direct
+host-suffix,wbrks.com,direct
